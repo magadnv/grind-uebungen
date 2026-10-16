@@ -1,1 +1,1 @@
-Grind Uebungen is a project to sharpen my skill in different area.
+Grind Uebungen is a project to sharpen my skills in different area.
